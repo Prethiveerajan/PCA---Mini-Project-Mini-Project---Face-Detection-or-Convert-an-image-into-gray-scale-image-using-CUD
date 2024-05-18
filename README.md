@@ -1,8 +1,6 @@
 # PCA-Mini-Project---Face-Detection-or-Convert-an-image-into-gray-scale-image-using-CUD
 
-## Name: SRIJITH R
-## Reg No: 212221240054
-## Date: 15/05/2024
+
 
 ## AIM:
 
